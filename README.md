@@ -2,3 +2,16 @@
 - Manual Testing Phase – Focused on installation, functional, performance, and regression testing
 
 - Automation Testing Phase – Focused on updating and creating test cases using Robot Framework, Python, and Airtest
+
+🧰 Tools & Environment
+🖥️ MobaXterm – Used to remotely access and control the test machine for manual and automated testing tasks
+
+📋 SpiraTest – Managed and executed manual test cases; updated test steps and results
+
+🐞 Jira – Reported bugs, tracked issues, and logged working hours; collaborated with the QA and development teams
+
+📚 Confluence – Used for reading documentation and also for creating internal learning materials
+
+🧪 Robot Framework, Python, Airtest – Update, built and executed automated test suites for installation, functional, and performance testing
+
+🧬 GitLab – Pushed automation scripts and updates to the project repository; supported collaboration with CI and QA teams through version control and test updates integrated into the CI/CD pipeline
