@@ -30,3 +30,30 @@
 
 **⚡ Performance & Stress Testing** – Tested responsiveness and stability under load
 
+## 🤖 Test Automation 
+In this part, I focused on updating an existing test suite and developing a new functional test suite using Python-based tools.
+
+### 🧰 Tools & Technologies
+**🐍 Python** – Scripting language for test development
+
+**🤖 Robot Framework** – Framework for keyword-driven automated tests
+
+**🧪 Airtest** – GUI automation and image-based verification
+
+**🔗 GitLab CI/CD** – Integrated tests into the delivery pipeline
+
+### 🛠️ Key Activities
+🔧 Updated installation test suite for new app versions
+
+🧪 Developed functional test suite
+
+🔁 Supported continuous quality testing in CI/CD
+
+### 🚀 Skills Gained
+Practical understanding of automated test scripting
+
+Familiarity with CI/CD pipelines
+
+Hands-on experience with debugging test scripts
+
+Improved ability to maintain and expand test suites
