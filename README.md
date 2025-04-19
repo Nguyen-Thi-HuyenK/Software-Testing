@@ -16,17 +16,17 @@
 **🧪 Robot Framework, Python, Airtest** – Update, built and executed automated test suites for installation, functional, and performance testing
 
 **🧬 GitLab** – Pushed automation scripts and updates to the project repository; supported collaboration with CI and QA teams through version control and test updates integrated into the CI/CD pipeline
+
 ## ✅ Manual Testing Experience ##
 ### 🧩 Functional Testing
-🔁 Regression Testing – Verified behavior after new changes and bug fixes
+**🔁 Regression Testing** – Verified behavior after new changes and bug fixes
 
-🧪 Functional Testing – Checked core functionalities against requirements
+**🧪 Functional Testing** – Checked core functionalities against requirements
 
-🖱️ GUI Testing – Tested graphical interface elements and UI workflows
+**🖱️ GUI Testing** – Tested graphical interface elements and UI workflows
 
 ### ⚙️ Non-Functional Testing
-💾 Installation/Uninstallation Testing – Verified setup and cleanup of different app versions
+**💾 Installation/Uninstallation Testing** – Verified setup and cleanup of different app versions
 
-⚡ Performance & Stress Testing – Tested responsiveness and stability under load
+**⚡ Performance & Stress Testing** – Tested responsiveness and stability under load
 
-🧩 Compatibility Testing – (If applicable) Ensured system works in supported environments
