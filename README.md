@@ -50,10 +50,10 @@ In this part, I focused on updating an existing test suite and developing a new 
 🔁 Supported continuous quality testing in CI/CD
 
 ### 🚀 Skills Gained
-Practical understanding of automated test scripting
+- Practical understanding of automated test scripting
 
-Familiarity with CI/CD pipelines
+- Familiarity with CI/CD pipelines
 
-Hands-on experience with debugging test scripts
+- Hands-on experience with debugging test scripts
 
-Improved ability to maintain and expand test suites
+- Improved ability to maintain and expand test suites
