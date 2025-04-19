@@ -3,7 +3,8 @@
 
 - Automation Testing Phase – Focused on updating and creating test cases using Robot Framework, Python, and Airtest
 
-**🧰 Tools & Environment**
+## 🧰 Tools & Environment ##
+
 **🖥️ MobaXterm** – Used to remotely access and control the test machine for manual and automated testing tasks
 
 **📋 SpiraTest** – Managed and executed manual test cases; updated test steps and results
