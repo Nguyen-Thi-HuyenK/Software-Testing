@@ -4,7 +4,7 @@ I have worked as a Software Testing Trainee, where I gained hands-on experience 
 
 - Automation Testing Phase – Focused on updating and creating test cases using Robot Framework, Python, and Airtest
 
-## 🧰 Tools & Environment ##
+### 🧰 Tools & Environment 
 
 **🖥️ MobaXterm** – Used to remotely access and control the test machine for manual and automated testing tasks
 
@@ -18,23 +18,23 @@ I have worked as a Software Testing Trainee, where I gained hands-on experience 
 
 **🧬 GitLab** – Pushed automation scripts and updates to the project repository; supported collaboration with CI and QA teams through version control and test updates integrated into the CI/CD pipeline
 
-## ✅ Manual Testing Experience ##
-### 🧩 Functional Testing
+### ✅ Manual Testing Experience 
+#### 🧩 Functional Testing
 **🔁 Regression Testing** – Verified behavior after new changes and bug fixes
 
 **🧪 Functional Testing** – Checked core functionalities against requirements
 
 **🖱️ GUI Testing** – Tested graphical interface elements and UI workflows
 
-### ⚙️ Non-Functional Testing
+#### ⚙️ Non-Functional Testing
 **💾 Installation/Uninstallation Testing** – Verified setup and cleanup of different app versions
 
 **⚡ Performance & Stress Testing** – Tested responsiveness and stability under load
 
-## 🤖 Test Automation 
+### 🤖 Test Automation 
 In this part, I focused on updating an existing test suite and developing a new functional test suite using Python-based tools.
 
-### 🧰 Tools & Technologies
+#### 🧰 Tools & Technologies
 **🐍 Python** – Scripting language for test development
 
 **🤖 Robot Framework** – Framework for keyword-driven automated tests
@@ -43,14 +43,14 @@ In this part, I focused on updating an existing test suite and developing a new 
 
 **🔗 GitLab CI/CD** – Integrated tests into the delivery pipeline
 
-### 🛠️ Key Activities
+#### 🛠️ Key Activities
 🔧 Updated installation test suite for new app versions
 
 🧪 Developed functional test suite
 
 🔁 Supported continuous quality testing in CI/CD
 
-### 🚀 Skills Gained
+#### 🚀 Skills Gained
 - Practical understanding of automated test scripting
 
 - Familiarity with CI/CD pipelines
