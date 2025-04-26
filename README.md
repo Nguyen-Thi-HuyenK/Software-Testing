@@ -18,7 +18,7 @@ I have worked as a Software Testing Trainee, where I gained hands-on experience 
 
 **🧬 GitLab** – Pushed automation scripts and updates to the project repository; supported collaboration with CI and QA teams through version control and test updates integrated into the CI/CD pipeline
 
-### ✅ Manual Testing Experience 
+### ✅ Manual Testing Experience ###
 #### 🧩 Functional Testing
 **🔁 Regression Testing** – Verified behavior after new changes and bug fixes
 
