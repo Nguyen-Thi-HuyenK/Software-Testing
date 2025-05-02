@@ -14,7 +14,7 @@ I have worked as a Software Testing Trainee, where I gained hands-on experience 
 
 **📚 Confluence** – Used for reading documentation and also for creating internal learning materials
 
-**🧪 Robot Framework, Python, Airtest** – Update, built and executed automated test suites for installation, functional, and performance testing
+**🧪 Robot Framework, Python, Airtest, Selenium** – Update, built and executed automated test suites for installation, functional, and performance testing
 
 **🧬 GitLab** – Pushed automation scripts and updates to the project repository; supported collaboration with CI and QA teams through version control and test updates integrated into the CI/CD pipeline
 
@@ -40,6 +40,8 @@ In this part, I focused on updating an existing test suite and developing a new 
 **🤖 Robot Framework** – Framework for keyword-driven automated tests
 
 **🧪 Airtest** – GUI automation and image-based verification
+
+**🖱️ Selenium** - GUI automation of the website
 
 **🔗 GitLab CI/CD** – Integrated tests into the delivery pipeline
 
